@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459397966576",
+    "project_id": "appa1-51458",
+    "storage_bucket": "appa1-51458.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459397966576:android:9980287a0281836137f035",
+        "android_client_info": {
+          "package_name": "br.edu.up.a129959250"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1U8PgYGLEaomaEEUUsk9YoalPncw5-3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
